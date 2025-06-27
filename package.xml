@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>articubot_one</name>
+  <name>auto_bot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">Josh Newans</maintainer>
-  <license>TODO: License declaration</license>
+  <description>autonomous ground robot using ROS2 and Gazebo</description>
+  <maintainer email="justin.hart@utexas.edu">Justin Hart</maintainer>
+  <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
